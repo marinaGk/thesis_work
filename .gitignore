@@ -1,6 +1,4 @@
 /model
+/output
 
-data_sorted.txt
-data.txt
-results.csv
-comparison.csv
+ASHRAE_predictive_model.ipynb 

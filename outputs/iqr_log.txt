@@ -1,0 +1,11 @@
+Number of outliers in column: ta is: 138
+Number of outliers in column: rh is: 0
+Number of outliers in column: vel is: 444
+Number of outliers in column: met is: 745
+Number of outliers in column: clo is: 318
+Number of outliers in column: tr is: 144
+Number of outliers in column: thermal_preference is: 0
+Number of outliers in column: season is: 0
+Number of outliers in column: age is: 0
+Number of outliers in column: pmv is: 0
+Number of total outliers is: 1484

@@ -1,0 +1,2 @@
+By removing NaN values, with starting data size being: 109033 and new size being: 12326 the data loss is: 88.69516568378381 %
+By removing outliers, with starting data size being: 12326 and new size being: 11340 the data loss is: 7.999350965438907%
